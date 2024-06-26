@@ -57,3 +57,7 @@
 
 ## 푸터 추가
 - footer.md
+
+
+## 구매 페이지 추가
+- purchase.md
