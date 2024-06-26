@@ -60,3 +60,7 @@
 
 ## 사이드바 추가
 - sidebar.md
+
+
+## 구매 페이지 추가
+- purchase.md
